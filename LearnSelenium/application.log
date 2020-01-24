@@ -1,0 +1,11 @@
+2020-01-03 10:06:00,783  INFO [main] Log4jdemo:17 - Apllication Started Successfully
+2020-01-03 10:06:00,796  WARN [main] Log4jdemo:22 - Chect title
+2020-01-03 10:10:33,360  INFO [main] Log4jdemo:17 - Apllication Started Successfully
+2020-01-03 10:10:33,372  WARN [main] Log4jdemo:22 - Chect title
+2020-01-03 10:10:33,373  INFO [main] Log4jdemo:26 - Correct Page
+2020-01-03 10:16:46,255  INFO [main] Log4jdemo:17 - Apllication Started Successfully
+2020-01-03 10:16:46,279  WARN [main] Log4jdemo:22 - Chect title
+2020-01-03 10:16:46,279  INFO [main] Log4jdemo:26 - Correct Page
+2020-01-03 11:03:51,135  INFO [main] Log4jdemo:17 - Apllication Started Successfully
+2020-01-03 11:03:51,149  WARN [main] Log4jdemo:22 - Check title
+2020-01-03 11:03:51,150  INFO [main] Log4jdemo:26 - Correct Page
